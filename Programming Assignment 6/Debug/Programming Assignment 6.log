@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\johnr\Desktop\Classwork\Fall 2021\Data Stuctures C++              - CS 303\Programming Assignment 6\Source.cpp(69): warning C4715: 'convertToBase': not all control paths return a value
+C:\Users\johnr\Desktop\Classwork\Fall 2021\Data Stuctures C++              - CS 303\Programming Assignment 6\Source.cpp(185): warning C4715: 'convertToString': not all control paths return a value
+  Programming Assignment 6.vcxproj -> C:\Users\johnr\Desktop\Classwork\Fall 2021\Data Stuctures C++              - CS 303\Programming Assignment 6\Debug\Programming Assignment 6.exe
